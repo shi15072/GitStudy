@@ -3,5 +3,6 @@ public class GitTest2 {
         System.out.println("hello git!");
         System.out.println("2021年8月25日21:26:38");
         System.out.println("2021年8月25日21:31:13");
+        System.out.println("2021年8月25日22:19:34 提交到github上");
     }
 }
